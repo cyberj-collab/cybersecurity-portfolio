@@ -4,11 +4,15 @@ Army and Marine Corps veteran and former police officer transitioning into cyber
 
 **Focus areas:** network security · SOC analysis · digital forensics · incident response
 
-[LinkedIn](https://www.linkedin.com/in/jean-dumont-9b5b4a32a)
+[LinkedIn](https://www.linkedin.com/in/jean-dumont-9b5b4a32a) · [Cyber-Learn website](https://cyberj-collab.github.io/cyber-learn/)
 
 ---
 
 ## Completed
+
+### Cyber-Learn website → [cyberj-collab.github.io/cyber-learn](https://cyberj-collab.github.io/cyber-learn/)
+
+A free, beginner-friendly guide to starting a cybersecurity career that I designed and built: career role guides, three fictional hands-on missions (phishing, log review, account security), a certification roadmap, a labs directory, a searchable glossary, and job-search tips. Plain HTML, CSS and JavaScript with light and dark themes, hosted on GitHub Pages. Source: [`cyber-learn`](https://github.com/cyberj-collab/cyber-learn).
 
 ### Cisco Packet Tracer Labs → [`packet-tracer-labs/`](packet-tracer-labs/)
 
